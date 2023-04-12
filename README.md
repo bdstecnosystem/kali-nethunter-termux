@@ -9,3 +9,6 @@ modo de uso :
 cd kali-nethunter-termux  
 chmod +x kali-termux.sh
 ./kali-termux.sh ou bash kali-termux.sh
+
+
+@BSDTECNOSYSTEM
