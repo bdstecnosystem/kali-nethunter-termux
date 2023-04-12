@@ -1,10 +1,10 @@
 ##### kali-nethunter-termux
-##um script bash  que irá instalar o kali nethunter no seu termux de modo automatizado.
+um script bash  que irá instalar o kali nethunter no seu termux de modo automatizado.
 
 
 
 
-#modo de uso :
+modo de uso :
 
 cd kali-nethunter-termux
 chmod +x kali-termux.sh
